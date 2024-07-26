@@ -1,0 +1,9 @@
+description
+https://medium.com/@ariadoos/laravel-custom-file-stubs-ed32f046ea81
+
+
+
+make command:
+php artisan stub:publish
+php artisan make:command MakeInterfaceCommand
+php artisan make:interface User
